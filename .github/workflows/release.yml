@@ -21,6 +21,6 @@ jobs:
 
       - name: Push
         run: |
-          docker login ghcr.io -u Jesse0Michael -p ${{ secrets.PAT }}
+          docker login ghcr.io -u leakytap -p ${{ secrets.PAT }}
           docker push ghcr.io/leakytap/wait-for-it-docker:${REF##*/}
           docker push ghcr.io/leakytap/wait-for-it-docker:latest
