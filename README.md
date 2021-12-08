@@ -26,7 +26,7 @@ services:
   app:
     build:
       args:
-        BASE_IMAGE: leakytap/wait-for-it-docker:latest
+        BASE_IMAGE: ghcr.io/leakytap/wait-for-it-docker:latest
     entrypoint: wait-for-it postgres:5432 -- ./app
     depends_on:
         - postgres
