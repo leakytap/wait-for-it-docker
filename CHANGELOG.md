@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/leakytap/wait-for-it-docker/compare/v1.0.0...v1.0.1) (2021-12-08)
+
+### Continuous Integration
+
+- release as organization ([615b408](https://github.com/leakytap/wait-for-it-docker/commit/615b408faa1671e9372320cc30fd5445853688e9))
+
+### Documentation
+
+- opencontainer labels ([623656a](https://github.com/leakytap/wait-for-it-docker/commit/623656acaafb19c1d8dbeb1ffe630e7197fcdda1))
+
 # 1.0.0 (2021-12-08)
 
 ### Continuous Integration
