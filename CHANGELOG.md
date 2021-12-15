@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/leakytap/wait-for-it-docker/compare/v1.1.1...v1.1.2) (2021-12-15)
+
+### Bug Fixes
+
+- install ca-certs ([378f7dd](https://github.com/leakytap/wait-for-it-docker/commit/378f7dd00c0f00bac0039de4a0df4c4cb125b43d))
+
 ## [1.1.1](https://github.com/leakytap/wait-for-it-docker/compare/v1.1.0...v1.1.1) (2021-12-15)
 
 ### Bug Fixes
