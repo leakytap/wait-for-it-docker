@@ -5,6 +5,6 @@ LABEL org.opencontainers.image.description "Docker image that contains wait-for-
 
 RUN apt-get update
 
-RUN apt-get install ca-certificates && update-ca-certificates
+RUN apt-get install -y ca-certificates && update-ca-certificates
 
 RUN apt-get install wait-for-it
