@@ -1,3 +1,13 @@
+# [1.1.0](https://github.com/leakytap/wait-for-it-docker/compare/v1.0.1...v1.1.0) (2021-12-15)
+
+### Features
+
+- add ca-certs ([eb4c015](https://github.com/leakytap/wait-for-it-docker/commit/eb4c0158b7e1052e84b8579111d33ada826088e4))
+
+### Other
+
+- Merge branch 'main' of ssh://github.com/leakytap/wait-for-it-docker ([1fcba7f](https://github.com/leakytap/wait-for-it-docker/commit/1fcba7f24f6c4627fad8e7139af6583352627600))
+
 ## [1.0.1](https://github.com/leakytap/wait-for-it-docker/compare/v1.0.0...v1.0.1) (2021-12-08)
 
 ### Continuous Integration
