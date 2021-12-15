@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/leakytap/wait-for-it-docker/compare/v1.1.0...v1.1.1) (2021-12-15)
+
+### Bug Fixes
+
+- apt-get ca-certificates ([65f862b](https://github.com/leakytap/wait-for-it-docker/commit/65f862b3bfb20be1aeb3aa6e895c343b33a7946f))
+
 # [1.1.0](https://github.com/leakytap/wait-for-it-docker/compare/v1.0.1...v1.1.0) (2021-12-15)
 
 ### Features
