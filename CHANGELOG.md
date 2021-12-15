@@ -1,3 +1,13 @@
+## [1.1.3](https://github.com/leakytap/wait-for-it-docker/compare/v1.1.2...v1.1.3) (2021-12-15)
+
+### Bug Fixes
+
+- accept apt-get install ([88d3c1a](https://github.com/leakytap/wait-for-it-docker/commit/88d3c1a532d6c0c4698d8b8503989fd91b053d09))
+
+### Other
+
+- Merge branch 'main' of ssh://github.com/leakytap/wait-for-it-docker ([e703af7](https://github.com/leakytap/wait-for-it-docker/commit/e703af74eceef73abb51719d25ea14dce143693c))
+
 ## [1.1.2](https://github.com/leakytap/wait-for-it-docker/compare/v1.1.1...v1.1.2) (2021-12-15)
 
 ### Bug Fixes
